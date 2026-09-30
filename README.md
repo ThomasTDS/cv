@@ -1,5 +1,7 @@
 # Thomas Teixeira
 
+<img src="./partials/foto.png" alt="Foto de Thomas Teixeira" width="180">
+
 ## Analista de Qualidade de Software · QA
 
 **E-mail:** [thomasteixeirads@gmail.com](mailto:thomasteixeirads@gmail.com)  
