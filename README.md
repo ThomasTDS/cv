@@ -2,6 +2,8 @@
 
 <img src="./partials/foto.png" alt="Foto de Thomas Teixeira" width="180">
 
+🌐 **Português** · [English](./README.en.md)
+
 ## Analista de Qualidade de Software · QA
 
 **E-mail:** [thomasteixeirads@gmail.com](mailto:thomasteixeirads@gmail.com)  
